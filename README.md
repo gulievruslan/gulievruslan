@@ -6,11 +6,11 @@ QA Automation Engineer with 4+ years of experience in UI and API testing. I buil
 
 ## Core skills
 
-- **Automation:** Python, Pytest, Playwright, Selenium
-- **API testing:** Requests, Pydantic, REST API
-- **CI/CD and infrastructure:** GitHub Actions, Jenkins, Docker
-- **Reporting and test management:** Allure, Qase
-- **Data:** PostgreSQL, SQL
+- **Test automation:** Python, Pytest, Playwright, Selenium
+- **API testing:** Requests, Pydantic, REST APIs
+- **CI/CD and infrastructure:** Bitbucket, Jenkins, GitLab, GitHub Actions, Selenoid, Docker, OpenShift
+- **Reporting and test management:** Allure, Allure TestOps, Jira, Qase, Zephyr
+- **Databases:** PostgreSQL, SQL
 
 ## Featured project
 
@@ -18,9 +18,9 @@ QA Automation Engineer with 4+ years of experience in UI and API testing. I buil
 
 A full-stack HR application and QA automation portfolio project.
 
-- 65 automated tests: 32 API tests and 33 UI tests
-- Coverage includes employees, departments, leave requests, payroll, authentication, and role-based access
-- GitHub Actions pipeline with code quality checks, API and browser test runs
+- 65 automated tests: 32 API tests and 33 UI tests written with Playwright
+- API coverage includes employees, departments, leave requests, payroll, authentication, and role-based access
+- GitHub Actions pipeline with code quality checks and API and Playwright UI test runs
 - Allure reports published to GitHub Pages
 
 [Repository](https://github.com/gulievruslan/peoplehub-qa-automation) · [Allure report](https://gulievruslan.github.io/peoplehub-qa-automation/)
