@@ -22,7 +22,7 @@ I focus on readable, reliable tests that provide fast feedback and help teams ca
 
 A full-stack HR application and QA automation portfolio project.
 
-- 65 automated tests: 32 API tests and 34 UI tests, with UI tests written in Playwright
+- 66 automated tests: 32 API tests and 34 UI tests, with UI tests written in Playwright
 - API coverage includes employees, departments, leave requests, payroll, authentication, and role-based access
 - GitHub Actions pipeline with code quality checks and API and Playwright UI test runs
 - Allure reports published to GitHub Pages
