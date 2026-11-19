@@ -1,6 +1,6 @@
 # Ruslan Guliev
 
-### QA Automation Engineer | Python · Pytest · Playwright
+### Senior QA Engineer | Python · Pytest · Playwright
 
 QA Automation Engineer with 5+ years of experience testing web applications and REST APIs. I design and maintain test automation frameworks in Python, create UI tests with Playwright and Selenium, and validate API behavior with Requests and Pydantic.
 
