@@ -2,7 +2,7 @@
 
 ### QA Automation Engineer | Python · Pytest · Playwright
 
-QA Automation Engineer with 4+ years of experience testing web applications and REST APIs. I design and maintain test automation frameworks in Python, create UI tests with Playwright and Selenium, and validate API behavior with Requests and Pydantic.
+QA Automation Engineer with 5+ years of experience testing web applications and REST APIs. I design and maintain test automation frameworks in Python, create UI tests with Playwright and Selenium, and validate API behavior with Requests and Pydantic.
 
 My work includes automating end-to-end business workflows, checking role-based access and data integrity, and integrating tests into CI/CD pipelines. I use Allure and Qase for test reporting and management, and PostgreSQL and SQL to verify application data.
 
